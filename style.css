@@ -1,0 +1,38 @@
+p{
+    font-size: 100px;
+    text-align: center;
+}
+.color{
+    border:5px solid  yellow;
+    
+}
+
+button {
+    border: none;
+    color:black;
+    text-align: center;
+    font-size: 50px;
+}
+ 
+.b1 {
+     
+   
+    background-color: red;
+}
+ 
+.b2 {
+     
+    
+    background-color: blue;
+}
+ 
+.b3 {
+     
+    background-color: green;
+}
+ 
+.b4 {
+     
+    
+    background-color: yellow;
+}
